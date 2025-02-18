@@ -339,13 +339,14 @@ section {
 
 .review img {
   width:  85px !important;
-  border-radius: 1000px;
+  /* border-radius: 1000px; */
   margin: auto;
 }
 
 .review h4,
 .review p {
   color: #fff;
+  margin-top: 1.5rem;
 }
 
 .review small {
